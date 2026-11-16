@@ -1,53 +1,20 @@
-# Hi, I'm Gali Bala Bharath 👋
+# Gali Bala Bharath
 
-### Java Backend Developer | Distributed Systems | FinTech Engineering
+**Java Backend Developer | FinTech | Distributed Systems**
 
-B.Tech Computer Science & Information Technology student at KL University.
+B.Tech CS & IT student at KL University.
 
-I enjoy designing and building backend systems, secure APIs, distributed applications and payment infrastructure.
+- Building scalable backend applications.
+- Exploring microservices, system design and cloud technologies.
+- Currently developing **PayForge** – AI-Assisted Payment Processing Platform.
 
-## About Me
+### Tech Stack
+Java · Spring Boot · PostgreSQL · Redis · Kafka · Docker · React · Git
 
-- 💻 Focused on Java Backend Development.
-- 🏗️ Learning System Design and Microservices Architecture.
-- 🔐 Interested in Cybersecurity and secure application development.
-- 🚀 Building PayForge, an AI-Assisted Payment Processing & Revenue Recovery Platform.
+### Featured Project
+**[PayForge](https://github.com/Balabharath2630/payforge-backend)**
 
-## Technology Stack
+AI-assisted payment processing and revenue recovery platform built with Java, Spring Boot and event-driven architecture.
 
-**Backend:** Java 21, Spring Boot, Spring Security, Hibernate
-
-**Database:** PostgreSQL, Redis
-
-**Messaging:** Apache Kafka
-
-**Infrastructure:** Docker, Docker Compose
-
-**Frontend:** React, Vite, JavaScript
-
-**Tools:** Git, GitHub, VS Code
-
-## Featured Project
-
-### PayForge
-AI-Assisted Payment Processing & Revenue Recovery Platform.
-
-Built around secure payment processing, merchant management, ledger operations, event-driven architecture and revenue recovery workflows.
-
-**Core technologies:** Java, Spring Boot, PostgreSQL, Kafka, Redis and Docker.
-
-## Current Learning Goals
-
-- Advanced Java and Data Structures & Algorithms
-- Microservices and Distributed Systems
-- System Design
-- Cloud Infrastructure and AWS
-- Application Security
-
-## Connect With Me
-
-- GitHub: https://github.com/Balabharath2630
-
----
-
-*Building, learning and improving one system at a time.*
+### Connect
+[GitHub](https://github.com/Balabharath2630)
